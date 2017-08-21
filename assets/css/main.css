@@ -1,0 +1,28 @@
+.logo{
+	float: left;
+  top: 50px;
+}
+.menu1{
+	height: 80px;
+	background-color: red;
+}
+#menu{
+  background-color:  #5E5B5A;
+  height: 50px;
+  margin: 0px;
+  text-align: center;
+}
+  a:hover{
+  color: white;
+
+}
+.icon-twitter, .icon-facebook, .icon-youtube, .icon-instagram{
+ color: red;
+	border-radius: 180% ;
+	border-style: solid white !important;
+	padding: 10px ;
+  text-align: center ;
+	display: inline-block;
+	font-size: 20px;
+
+}
